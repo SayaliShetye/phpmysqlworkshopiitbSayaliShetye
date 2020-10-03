@@ -1,7 +1,7 @@
 <html>
 <body>
 <p></p>
-<form action="q6_2_special_variables_html.php" method="POST">
+<form action="q6_2_special_variable_html.php" method="POST">
 Enter your name: <input type="text" name="name" placeholder="Enter your name"><br>
 Subject 1 marks: <input type="number" min="0" max=100 name="S1" placeholder="Enter marks"><br>
 Subject 2 marks: <input type="number" min="0" max=100 name="S2" placeholder="Enter marks"><br>
